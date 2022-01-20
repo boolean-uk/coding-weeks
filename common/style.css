@@ -11,7 +11,7 @@
 
 body {
   background-color: var(--bg-color);
-  font-family: 'Press Start 2P', cursive;
+  font-family: 'Poppins', sans-serif;
   line-height: 1.4;
   color: white;
 }
