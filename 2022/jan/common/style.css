@@ -21,29 +21,41 @@ h1 {
   margin: 24px 0px;
 }
 
+h3 {
+  margin: 12px 0px;
+}
+
 p {
   font-size: 12px;
   margin-bottom: 36px;
 }
 
 a {
-  color: white;
+  color: var(--accent-color);
   display: block;
   text-decoration: none;
 }
 
 a:hover {
-  color: var(--accent-color);
-  transform: translateX(12px);
+  color: white;
+  transform: translateX(6px);
+  text-decoration: underline;
+}
+
+ul, ol {
+  margin-bottom: 20px;
 }
 
 ul {
   list-style-type: none;
 }
 
-ul li {
+li {
   margin-bottom: 1rem;
+}
 
+ol li {
+  color: var(--accent-color);
 }
 
 .container {

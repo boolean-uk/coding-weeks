@@ -27,23 +27,31 @@ p {
 }
 
 a {
-  color: white;
-  text-decoration: none;
+  color: var(--accent-color);
   display: block;
+  text-decoration: none;
 }
 
 a:hover {
-  color: var(--accent-color);
-  transform: translateX(12px);
+  color: white;
+  transform: translateX(6px);
+  text-decoration: underline;
+}
+
+ul, ol {
+  margin-bottom: 20px;
 }
 
 ul {
-  list-style-type: '- ';
+  list-style-type: none;
 }
 
-ul li {
+li {
   margin-bottom: 1rem;
+}
 
+ol li {
+  color: var(--accent-color);
 }
 
 .container {

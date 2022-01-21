@@ -32,23 +32,31 @@ p {
 }
 
 a {
-  color: white;
+  color: var(--accent-color);
   display: block;
   text-decoration: none;
 }
 
 a:hover {
-  color: var(--accent-color);
-  transform: translateX(12px);
+  color: white;
+  transform: translateX(6px);
+  text-decoration: underline;
+}
+
+ul, ol {
+  margin-bottom: 20px;
 }
 
 ul {
-  list-style-type: '- ';
+  list-style-type: "- ";
 }
 
-ul li {
+li {
   margin-bottom: 1rem;
+}
 
+ol li {
+  color: var(--accent-color);
 }
 
 pre {
@@ -69,7 +77,6 @@ session-page {
 }
 
 .session-title {
-  color: #f71568;
   margin: 50px 0;
   text-decoration: underline;
 }
