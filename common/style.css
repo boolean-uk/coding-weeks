@@ -18,6 +18,10 @@ body {
 
 h1 {
   font-size: 36px;
+  margin: 24px 0px;
+}
+
+h3 {
   margin-bottom: 16px;
 }
 
@@ -54,52 +58,24 @@ ol li {
   color: var(--accent-color);
 }
 
+pre {
+    background: white;
+    white-space: pre-wrap;
+}
+
 .container {
   max-width: 800px;
   margin: 100px auto;
   display: flex;
   flex-direction: column;
-  align-items: center;
 }
 
-.logo, .thumbs {
+.center {
+  text-align: center;
+}
+
+.logo {
   display: block;
   max-width: 100%;
   height: auto;
-}
-
-.main-title {
-  margin-bottom: 50px;
-  text-decoration: underline;
-}
-
-.board {
-  display: flex;
-}
-
-.game-area {
-  position: relative;
-  padding: 12px;
-}
-
-.game-data {
-  padding: 12px;
-  width: 240px;
-}
-
-.game-alert{
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  top: 0;
-  left: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.game-alert-message {
-  background-color: var(--accent-color);
-  font-size: 40px;
-  padding: 20px;
 }
