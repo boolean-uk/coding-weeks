@@ -23,6 +23,10 @@ section ul {
   margin-right: 10px;
 }
 
+.session-recording {
+  margin-bottom: 30px;
+}
+
 .align {
   align-items: center;
 }
