@@ -1,0 +1,183 @@
+Intro to HTML & CSS Q&A,Question,Answer
+,Hi team! I need to leave 20 minutes early - where can we access the recording after the session?,"No worries! We’ll share the link in an email, or you can also use the link that Ed dropped in the chat"
+,"Hello! I noticed that the Zoom call is being recorded, will we have access to the recording?","Absolutely, you’ll be able to access all the lesson recordings - we’ll share the link in an email, and it’s also been posted in the chat :)"
+,"I don't hear anything, you appear muted. Is it me? How do I unmute you if it's me? ",Hi Marcos - maybe try playing with your sound settings on your computer?
+,what actually means full stack?,"Great question! Full stack means you build the frontend (what the user sees) and the backend (database, server, the stuff under the hood that nobody sees)"
+,is this only for uk?,"You can join the Coding Weekend from anywhere in the world!
+
+Our full-time course is only available to people based in the UK or Europe"
+,how much is the course?,"The full info about our financing options is available on the website here: https://boolean.co.uk/course/software-developer-fulltime 
+
+We offer a range of options to make the course accessible to everyone"
+,Q: What is the rate of job finding in software after your course (job succesfully found/unfound?),Our placement rate is 95%
+,Does job guarantee go for all countries or is it UK/Italy based only?,Our money back guarantee applies to people who have the right to work in and are looking for work in the UK
+,Do you have much interaction with your cohort if you join the course?,Absolutely! The cohort is a supportive community and teachers are actively involved every day
+,Do you help with finding a job in the UK only? if not where else?,"If you join us from outside the UK but in Europe, we can help you with all of our careers support (CV, mock interview practice, job searching tips) but we’re not able to offer the money back guarantee"
+,How long are the sessions today,"The session today will be 2 hours, finishing at 12pm"
+,I thought it’s from 2pm-4pm on Sunday,"Apologies and thank you Adanna, absolutely correct it starts at 2pm tomorrow!"
+,is the 11-hour fundamentals course free too?,"Yes Andre, the 11hr Fundamentals Camp is totally free!"
+,"When you mean Frontend, would that be the buttons you click on?","Everything you see on the screen is considered the frontend - buttons, links, images, text :)"
+,Is there an option to choose and focus more in front-end or back end?,"Our course covers both front-end and back-end so you get a complete overview. If you find that you prefer one or the other, by the end of the course, you’ll have the tools and learning skills to be able to focus on one or the other!"
+,What IDE/software do we need to code in HTML/CSS? I currently have Brackets installed on my machine,"Brackets should do fine. There are a lot of options, one of the most popular being VisualStudio Code. But you could even use Notepad!"
+,do you learn c++ at boolearn?,C++ isn't taught at Boolean at this time but we encourage students to discover and talk about technologies that aren't officially part of the curriculum
+,What is the schedule like for the full 6 month course? What is the weekly commitment?,We’ll be diving into this in more detail at the Open Day on Thursday. In a nutshell: you’ll do lessons/guided work in the morning 9.30am-1pm and then work on exercises/projects with Teacher support in the afternoon 3pm-6pm
+,How can we code along during the weekend?,You can download a text editor like VS Code here: https://code.visualstudio.com/  and then use that to follow along the code that Edward is writing
+,Please can you send the link to the 11 hour course,You can find the Fundamentals Camp here: https://boolean.co.uk/fundamentals
+,Do you recommend a text editor or should I better use an IDE?,"a text editor works, but an IDE will be even better! You can use one like VSCode or Atom. Or you can use a browser-based one like codesandbox https://codesandbox.io/"
+,"For backend development, is there a primary language that you teach?","Both frontend and backend are taught using Javascript. The fundamentals, concepts and skills you learn are transferrable to other languages, but it can be quite difficult to learn multiple languages before having confidence in the fundamentals :)"
+,If I already know HTML & CSS is it worth me sticking around? I have no idea how to write JS.,It will be helpful to see how we approach online learning and to run through some things you might not already know in HTML/CSS. We’re also very happy to have you join us tomorrow for Javascript and on Monday for TDD :)
+,Is there a minimum age for the course?,Yes you have to be over 18 to attend the full-time course
+,"Is this program available for anyone internationally or is it just for folks in europe?
+The paid progam not the coding weekend.",The full-time course is for people based in the UK or Europe :)
+,"I think my question got missed, I work nights tuesday to friday, 00:30 to 11:00. Is there any other classes at a more suitible time for me?
+If not il have to come back next year","Thanks Zak, at the moment we only run our full-time course from 9.30am-6pm so unfortunately we can’t change that! We’d love to see you join us if your schedule changes :)"
+,did anyone get that git link? can you share here?,https://boolean-uk.github.io/coding-weekend/2022/jan/sessions/html-css/index.html
+,What does TDD mean again?,TDD stands for Test Driven Development and it’s an approach to help us write high quality code!
+,What browser is Edward using? It looks cool!,"Brave! It uses the Google Chrome engine, but without the tracking ;)"
+,"Compared to a normal uni degree of 3 years, how does this take only 6 months?","Great question! Our course is very different from a uni degree - uni degrees focus on lots of theory, hardly any practical coding, and ~10-15hrs per week of lessons. We instead focus on the key practical skills to get you producing software and writing code, and run 30hrs+ per week!"
+,Do you guys also teach Solidity/Rust?,"Solidity/Rust isn't taught at Boolean at this time, sorry!"
+,"Do we just learn JS or do we learn frameworks aswell (node, react)?","Great question. After learning JS, you'll move on to node & React as well as Express for backend :)"
+,Do Boolean offer any part time courses for people that need to work full time?,"Great question! At the moment we only run a full-time course, we find that it’s the most effective way for people who are looking to change their career into tech. But stay in touch as this might be something we can offer in the future!"
+,Where can i download the text editor so i can follow along?,"VS Code is available here: https://code.visualstudio.com/
+Ed is using Atom: https://atom.io/"
+,"I have Notepad open on my windows, just wanted to check, is this ok?","Notepad will work fine for HTML and CSS, though you won't get the fancy highlighting or extra tools that something like VisualStudio Code or Atom has"
+,Is he using Brackets? I'm trying to replicate his code on my computer but it's not working as it should ie the text isn't being formatted in the IDE as it shows on Ed's screen,He is using the less-than and greater-than sign: < and >
+,Can I download visualstudio code or atom for free?,Yes :)
+,"I am from India. Can i also get a job?
+Rply please",Our full-time course is only available for people based in the UK or Europe at the moment!
+,"If it helps, I'm using Replit.com, it is in the browser so it is rather easy",Great choice :)
+,Will this coding weekend be available to watch at a later time?,"Absolutely, these sessions are being recorded so you can re-watch them"
+,Do you have a maximum number of students per cohort to avoid overcrowding and ability to reach our teachers? Or does this tend to not be a problem?,We do! Our cohorts are capped at 35 max and we keep a ratio of 1 teacher to ~12 students
+,Is it possible to use a computer machine to function as a server which can be accessed from another?,"Absolutely - a server is just a computer, so you can use a home PC as a server if you wish"
+,What server software would you recommend?,There’s lots of options for writing software for the back-end. On the full-time course we use Node.js and some other tools
+,"I'm unfortunately having to work alongside this, so will the meeting be able to be watched later?  Or how often are these weekends held?",These sessions are being recorded so you'll be able to re-watch
+,I think on the majority of the browser is inspect element?,"Yep, most browsers have inspect, although Chrome (or a chrome-based browser like Brave) is the preferred browser for coding"
+,"What is the ""href"" in the code?",That's a Hypertext Reference - it's how we tell our code to create a clickable link to a website location
+,Hello! Does the spaces between lines of code make a difference? Is it important to have spaces between lines?,"Great question! The spacing is to keep your code readable, you won't necessarily see the spacing on the actual web page. How you structure your HTML is important, but the empty space is just to keep it readable as a developer"
+,will you be teaching code management and versioning?,"Yes! This is emphasized throughout the entirety of the course, it's important that you finish the course ready to work in a development team :)"
+,"This maybe is more complicated for you (Boolean). More complicated because I don't know how many students or aplicants you actually have outside of the UK.
+But for example I got up at 4am to join this class. Is there any chance for any future events they can be at more international times?",Thanks Sebastian - we really appreciate having you here so early! Our full-time course is only available to people in the UK/Europe and time zone is a large factor that plays into this!
+,Is HTML relavant now that we have applications like Wix which can create websites?,"Absolutely - Wix is a drag and drop site builder, but it's extremely limited compared to writing your own code (even though you can do a lot with Wix). Wix itself is built with HTML, among other things :)"
+,"So sorry, I've missed a lot. How do we code along?","If you open up a text editor or download one like VS Code or Atom, you’ll be able to code along :)
+
+Don’t worry if you missed it - we’ll be sharing recordings after the session!"
+,I've heard about CSS and JavaScript what's RHTML?,HTML is a language that lets browsers interpret and display web pages
+,What role does the <tag></tag> play in the web coding?,<tag></tag> is just an example of how to write tags
+,Hi is there a full timetable available for the course this weekend?,"Yes! We’ll share this after the session, but in a nutshell
+Today: 10am-12pm Intro to HTML & CSS
+Tomorrow: 2pm-4pm Intro to Javascript
+Monday: 6pm-7.30pm The power of TDD"
+,In the code that is right now being explained there is an embeded link that shows as 'Boolean' can the same code be used in other application  (commenting on Youtube or Reddit) to embeded a link?,"Great question! Generally, developers build their applications so that you can't ""inject"" code like that into their app because it can cause security concerns, but some do allow you to."
+,Why did you not write <!DOCTYPE HTML> at the top of the document?,live answered
+,Will it be only one teacher throughout the 6 month course?,"A cohort will generally have a specific teacher in the morning while learning concepts, and then one or more afternoon teachers during afternoons to support you during practical work"
+,does using external image make loading slower compared to using a saved image?,"Great question! Every image on the internet is saved on a computer somewhere, but it is certainly faster to use images saved on the same machine your website runs on."
+,You said that full-time course is for people based in the UK or Europe. Do you mean Europe as EU or geographycally? where can i find info about all eligible countries?,We mean Europe geographically. Your best option if you’re not sure is to apply and speak to one of our Admissions team!
+,What is the difference between xml and html?,A great article here explains the difference: https://www.w3schools.com/XML/xml_whatis.asp
+,"this is going to be recorded so we could watch it later, right?","Yep, we’ll share the recording after :)"
+,Can you explain to me why CMS are useful? Would you recommend to use them?,"A Content Management System is a piece of software that somebody builds, and then a website can be built on top of it. This will provide easier ways for people to modify the content of the website - e.g. an article writer can add a new article to the website without having to write HTML"
+,why is the </a> on a different line,"In the example on the screen the <a></a> is wrapped around another HTML element: the <h1></h1> tag. That allows the content inside the <h1> to be clicked as a link - you could certainly put it all on the same line, but it helps keep things readable for developers to format it the way Ed has :)"
+,can you show us the way to get an image up,live answered
+,"This takes about 6 months to complete the full 'education', is it a fulltime thing, or are you able to do it alongside other jobs?",The course is full-time so you won’t be able to effectively follow it if you are working or studying alongside
+,How did you automatically put the title into a comment?,search “keyboard shortcuts + [name of your text editor]” and you’ll be able to find the shortcut for commenting out code :)
+,what link are you using when putting an image up,live answered
+,If HTML is the structure and skeleton and CSS is the style then what role does Javascript play in Web Development?,"You can think of Javascript like the ""brain"". What happens when a form gets submitted? Javascript takes care of that! How does a website know when to display an annoying pop-up box? Javascript! :)"
+,"hi, where will we be able to access the recording after?",We’ll share an email :)
+,Do we get certificate after this training?,"Yes, everyone who completes the training will receive a certificate"
+,"Is there certain specifications for a computer device/laptop that you would recommend as a minimum to run coing programmes effectively? Eg graphic cards, RAM etc etc","HTML, CSS and Javascript are very leight-weight so you can run these types of applications on very low budget machines - no graphics card required!"
+,how can you alter the size of an image when opening it with <img>?,"The preferable way is to style it using CSS, but you can also add a width and height attribute to the img tag: e.g. <img width=""300"" height=""500"" />"
+,How do you refresh the code?  Is there a button on the keyboard?,"You’ll need to save your text file, and then refresh the browser"
+,"What does the ""a"" in ""<a>"" stand for?","""a"" stands for ""anchor"" - it's unlikely you'll ever need to remember that, so don't worry. Most just refer to the tag as a link :)"
+,How easy is it for EU citizens to apply and work for a UK based company with a fully remote open position? Has Brexit changed that?,"Great question! Brexit has added complications with visas, but there are ways around it. E.g. companies who have international offices, or companies can usually hire people outside the UK as freelancers/contractors. And the shift to remote working has definitely helped make it easier for people to apply for jobs in other countries."
+,this basic fundamental frontend html right sir if we join course would your Institute support us to a get jobs,Absolutely - there is a full career support section when you finish the course :)
+,All these characters that are required to write code like !=≤≥ are difficult to be typed quickly in a standard keyboard. Are there shortcuts in the programs or it's just practice and experience.,"Practice, experience and a good keyboard all help here :)"
+,How to link the image file locally (types the file location)?,live answered
+,I guess a GPU is requiered in some sort for some output :P,"It certainly helps, but isn't required! HTML is very light weight so motherboard integrated graphics are more than enough to handle most things :)"
+,Is this program completely dedicated to students in the UK or Europe? Are students from America eligible to apply?,"Great question Carlos. The main issue for people based in the US is the time difference. Classes start at 9.30am GMT which would mean waking up at 4.30am or even earlier depending where you are in the States. For this reason, we’ve found it’s not viable for US students currently to follow the course"
+,My Brackets IDE is unable to create a root folder...,Maybe you can try a different text editor?
+,Oh another question. What does the dot do in the path?,live answered
+,"How is the ""lorem ipsum"" shortcut enabled?","Each editor will have their own way of doing it, but you can always visit https://loremipsum.io/ to generate some and copy / paste :)"
+,"So in theory, instead of using a ""."" you can do something like C:\..."" etc?",Absolutely - though you do run the risk of things breaking if the full path changes in the future.
+,"As a complete beginner to programming, what resources/websites/videos would you recommend? This session is very useful but a lot of it doesn't make sense to me so I think I might have to start from the very basics first.","Our course starts from scratch, and you’ll be able to rewatch lessons and look over the slides whenever you want. Those will be the best tool for discovering new things. And then Google is your friend for anything you don’t know :)"
+,Could you also link the whole path as in C:/Program Files/etc. ?,some more info on this here: https://www.w3schools.com/Html/html_filepaths.asp
+,no pika????,Ed's too old for Pokemon Yellow ;)
+,Is there a way of autocompleting the tags so that you don't need to keep typing them out to complete the element?,some editors will do this automatically for you!
+,What's the difference between <ol> and <li>,"Great question. <ol></ol> defines the block of code that is the ordered list, and <li></li> is each item in that list (list item)"
+,what is the purpose of using an <ol> tag to automatically add numbering rather than just using a <p> tag and typing 1. bulbasaur 2. charmander etc.,live answered
+,Wait so what is the purpose of a div element?,"A div allows you to define a particular section of your code, e.g. a navigation bar on a website is a div, the header is another div, the content is another. Div is a ""division"" of HTML"
+,"When I open my file using my browser, it shows my code rather than the webpage as desired. Thoughts?","maybe double check which browser you’re using, and check for any typos in your code"
+,Do you teach ruby ad Rails?,"We don't teach Ruby on Rails at Boolean at this time, sorry!"
+,For tommorrows session for javascript I'd like to follow on so what coukd I download prehand?,"Make sure you have a text editor and a browser. You could use VS Code, or Atom for the text editor, and we recommend Chrome for the browser"
+,"If you were using C:\... etc, if the code goes live onto the Internet, would the image not appear for other users since its a link to a directory on your own computer? And so using ./ is more robust method? Thanks",Exactly!
+,to indent something do you just press space bar or press tab?,"This is an ongoing debate in the tech world - some prefer tab, some prefer spaces. It's down to you and your team to choose :)"
+,what's being used for the indent? is it not tab?,"You can use tab or spaces - I prefer tab, but some prefer spaces"
+,I find the font is automatically Times New Roman. How can you customize the font style to suit your needs?,You can check out MDN for some info on CSS and fonts specifically: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts
+,Does every bit of code need to start with that inverted space to make it clean?,The inverted space is just the way for creating a “tag” and it is predominantly used in HTML. clean code covers lots of things (check out SOLID principles if you’re interested in this) and we cover it in lots of detail on the course. Also during the TDD session on Monday!
+,"Maybe it would add a benefit to automatically mirror the HTML text, that is edited on the left side to a page / file on the internet. So we could copy it and work with it ourselves in parallel for some more interactivity (at least for those who want).",There is an online code editor called codesandbox that lets you do just this! https://codesandbox.io/
+,why are some elements/symbols in a faded brown and not all in black?,"Those faded brown elements are ""comments"", as denoted by <!-- -->. They won't display on the page, we use them as notes for other developers to understand what's happening in our code"
+,What if you want the list but you don't want the bullet point?,That's where CSS comes in :)
+,Is there any need for <ul> since <li> just indents the lists but <li> on it's still does it purpose,some more info on this here: https://www.w3schools.com/tags/tag_ul.asp
+,"I mean the text, that you currently edit in the live session, so we could copy that text","This is a nice idea! It may be too late to start implementing this now, but it's something we'll consider for future events :)"
+,What button do you press to look at the elements on a web page?,"Pressing F12 usually opens the developer tools window, or you can right click anywhere on the page and click ""Inspect"""
+,"Yes, was meant as a suggestion for future events",thanks tobias :)
+,"How do you display things in brackets on a website, for example <placeholder> without the browser thinking it is HTML?","You can use character references to accomplish this! &gt; will display >, &lt; will display <   (gt = greater than symbol, lt = less than symbol)"
+,Cant you use the pointer at the top left of inspector to jump to element code for ease of inspection?,Absolutely!
+,If you refresh the page will it still have all the styles removed?,live answered
+,How many seperate screens should you have as a developer?,"1 is enough, 2 makes things a lot easier, but some even have 3!"
+,does the anchor element have any other attribute besides href?,It does have a fair few! Here's a list: https://developer.mozilla.org/en-US/docs/Web/SVG/Element/a#attributes
+,My code isn’t changing colour why is that?,have a good look for any typos in your code :)
+,Where can I learn more about the full course?,"We’re running an Open Day on Thursday at 6pm where we’ll explain the course, how to apply, and let you hear from some current students. You can sign up here: https://on.boolean.careers/open-day-27-01
+
+Or, you can apply directly on the website and speak to our Admissions Team: https://boolean.co.uk/apply"
+,How do i change the link of my page to something else?,"if you mean how to change what appears in the URL, such as to have “www.mywebsite.com” you’ll need to host your code - an advanced topic that we’ll get into on the full-time course!"
+,is mdn better than stack overflow for web development,"Both are useful! MDN is considered documentation, which allows you to deeper understand specific things. Stackoverflow is more about asking other developers to help you with solutions to problems. Usually, you can ask a question on StackOverflow and then hit up something like MDN to understand somebody's answer better"
+,What is meta data mentioned?,live answered
+,what is meta data,live answered
+,I am also writing the code in atom and the code is in long line. long texts like Lorem ipusm don’t break and are difficult to read. how do I fix it?,"I'm not sure about the specifics with Atom, but there should be a ""word wrap"" setting you can enable somewhere"
+,"If a person in the US is willing to adapt to the time difference, would they still be able to apply? If so, is there any disadvantages to those people in terms of job searching? Sorry if these questions diverge from the present topic.",feel free to reach out to us on hello@boolean.co.uk and we can discuss each case individually
+,Will we learn how to set up a website and put in our code to have it visiable from every possible device at any given moment?,"Yes, we cover deploying your software to a server during the course. We want future employers to see your great work!"
+,Can HTML be used for mobile app development?,"This is a tough one to answer, but in short - yes, it can be if you're using certain frameworks."
+,can you edit a HTML in inspector?,"You can edit everything in the inspector, but changes will be lost when you refresh the page. You're not actually editing the real website for anybody else, the changes are just in your browser"
+,So how do we insert emojis in the HTML page?,"Emoji's have hexadecimal codes under the hood, you can use those! The winky face emoji is &#x1F609, which looks confusing, but adding that confusing looking code into your HTML will show a winky face on the screen. Here's a handy list: https://unicode.org/emoji/charts/full-emoji-list.html"
+,Will we be able to see all the questions asked and answered during the live later?,we will be able to share the answered questions!
+,The comment in css is the same as the on in c/c++ right?,"Good observation! Yes, they look the same. Many languages use that format for comments :)"
+,at what date will the course begin?,Our next course starts on 7th February!
+,what software is he using to work in HTML alongside CSS?,Ed uses an editor called Atom
+,why did the boolean uk bit not change color?,live answered
+,So is CSS a different language all together that works in unison with HTML? Could you just use CSS to build a website?,"Yes, CSS is a language specifically for styling HTML. You can't build a website just in CSS, since CSS needs something to apply styles to"
+,How can you choose a specific shade of blue that does not necessarily have a name?,"You can use a hex code! Here's a list: https://www.color-hex.com/
+Instead of color: red, you could use color: #FF0000"
+,What programming language is used to program a programming language? ,"Any language can create another language, but mostly they're written in C or C++"
+,I have to go to work. will the recording of today be sent to us via email later today or were can i find it to watch the rest later?,"It will! We will share an email with the recording, which will be available on this page: https://boolean-uk.github.io/coding-weekend/2022/jan/index.html"
+,I'm using Pycharm I don't think css is enebaled?,maybe you can try another text editor?
+,"I can't get my html code to apply to the CSS file, I saved it on the desktop",make sure the css file is in the same folder as your html file
+,Is this the same content that is covered in the fundamentals week? So we can do this profile ourselves?,we cover some similar topics in the Fundamentals Camp but in much more detail on each topic and with a few more exercises to practice :)
+,Cannot seem to figure out how to connect the css file to the html one.,live answered
+,can you do html on word doc?,"Technically you can if you save the file with a .html extension, but it might be painful to work with Word when writing code"
+,"what if i want an ordered list to be yellow, but another one to be red?",live answered
+,"Is it possible to do live editing, so I can see changes happen as I code them?",Codesandbox is a great tool that lets you do this!
+,Is it best to write html and css simultaneously?,"Absolutely. Whatever we're building, it's good to build simultaneously piece by piece. There's nothing stopping you writing all of your HTML first, though :)"
+,How would we go about styling the ordered list contents specifically instead of all the list items?,live answered
+,"If you want to apply animated elements either as GIFs or an animated button when clicked, is this something that would be applied through Javascript?","A gif is just an image, so you could use the <img> tag to display one. With Javascript you could choose to only display when a certain element is clicked"
+,can you do css on notepad?,"it should work, but it’s best to use a specific code editor like VS code or Atom, they have inbuilt things to help you code!"
+,Is the choice of using two space instead of tabs intended?,It's entirely down to preference :)
+,How do I make a locally sourced file that goes through many directories into the format ./ so it saves problems in the future?,"the easiest way is to structure your code with a “Main” folder which contains your index.html and css file and a sub-folder for “images” or similar, so you can access them easily"
+,"If I'm creating a mobile app that would work with internet connection (eg an app where you would need to sign in/create an account, store information externally etc) and works with backend algorithms and external programs (an example would be like sharing a post from one social platform to another), would HTML/CSS/JavaScript be amongst the languages to implement?","Interesting question! It depends on the technology you choose to use to develop your app. You can use a framework like React Native, which will utilise HTML-like elements, CSS and JavaScript"
+,is CSS also used to determine the place of text/images on the webpage such as centered or right hand side or is that done with HTML?,"CSS is how you'd decide the position of elements, but it's also important to place the element properly in HTML"
+,is there any other way to link the html and css because that method is not working for me please,"make sure your html and css file are in the correct folder structure, and double check for typos!"
+,Is there a larger colour spectrum?,yes! you can use a hexcode to specify whichever colour you like. you can use a colour picker tool to find the colour then copy the hexcode
+,"say we already applied color to a list. if we try to add a class to one item with a different color, will it override the color of the list?",live answered
+,"From here, how does this website go onto the internet? Like do you need to buy a domain and webserver to host your code?",You will need some kind of server and domain to put your site online :)
+,what is the use of HTML in modern time when WIX makes websites so much easier to create?,"Good question! Wix is great for drag and drop building, but it's extremely limited compared to writing your own code. Wix itself was built with HTML, CSS and Javascript"
+,iff you add a new style to <ul> to the bottom of the css file will it override the style of the first item in the list?,"Yes, the file is read by the browser top-to-bottom, so anything that comes later will overwrite the beginning"
+,Would we ever need to sanitise any of the variables?,"The only time you'd need to sanitise is if you were accepting user input; for example, if you allow a user to modify the CSS, you'd want to make sure they aren't doing anything naughty :)"
+,Are you using the BBC as a generic website because of its popularity or did you program their website lol?,haha we didn’t code their website! but it’s a great example of the “grid” layout in CSS
+,Is there a way to scale pictures in css?,"Yes, you can add width and height properties to images in CSS :)
+Example:
+
+img {
+  width: 200px;
+}"
+,"Thought it worth mentioning for those thinking website builders are going to make front-end obsolete. I used to wonder the same before attempting to host my own profile website using Hostinger and Zyro and let me tell you; it is extremely frustrating in comparison to html/css. Where it is very useful for setting up a site within a day, adding specific elements or trying to lay out something as simple as footer text when you can only moved to pre-fixed postions just gets annoying because it doesn't line up with what you have visualised - its another trade off between less time coding but a more basic and poorly formatted (and SEO optimised) site.",yep - website editors are great for spinning something up quickly without too much customisation. but for anything more customised it’s much easier to code your own
+,what is an fr as it applies to size?,live answered
+,would it be easier to split into %s rather than pxs,live answered
+,Thank yu very much for the lesson one last question for today do we need to download an app for tomorrows lesson of javascript learnt alot thanks.,"a text editor is all you need, VS Code and Atom are good options"
