@@ -1,0 +1,130 @@
+Question,Answer,,,,,
+Hello I downloaded atom editor on chrome os will that be ok for todays session thanks.,Yest that should be fine,,,,,
+will we need to download something if we want to code along?,"You will need a code editor to code a long, but its fine to just watch, make some notes and enjoy",,,,,
+Are we going to get any cerftificate that we attended this webinar ?,Sorry Samir we aren’t able to offer that!,,,,,
+Which countries do y'all support job search for?,"Our full time course is open to anyone based in the UK and Europe. We can give careers support (CV advice, mock interview practice, application feedback etc.) to everyone, but the money back guarantee and the future earnings agreement have extra requirements (e.g. right to work in the UK). we’ll dive into this in more detail on Thursday!",,,,,
+who is working fulltime and want to learn coding doyounhave any weekend course,We currently only have a full-time course option aimed at people who are looking to change their career into tech,,,,,
+are we doing js today????,We are!,,,,,
+What is the % of people that do the course and get employed within a certain timescale in a relevant position?,"we’ll talk in more detail about careers support, placement rate etc. at the Open Day on Thursday! :)",,,,,
+With coding can I Interview for a job online and work online,"Yes you can, there are a lot of remote jobs and plenty of remote hiring processes.",,,,,
+How long will we have access to the github resources?,live answered,,,,,
+"I didn’t receive an email today, is it possible to forward the link here?",the link has also been shared in the chat :),,,,,
+I got VSC is there any setup needed before I start to code?,You should be fine with VSC's basic features,,,,,
+What code editor should I get? Which do you think would be best?,Atom or Submlime code are also popular,,,,,
+What code editor should I get? Which do you think would be best?,We typically use VS code (VSC),,,,,
+"If I were to use a text editor to code, what file extension would I need to save it in for a web browser to run it?",To save text editor code you would need to save it as 'yourFileName.htm'  and ensure the encoding dropdown is set to UTF-8,,,,,
+I've worked in java b4 a little do we need to install jdk to follow along?,You dont need JDK for javascript,,,,,
+is that possible  from India.,Our full-time course is currently available for people in the UK and Europe,,,,,
+Hello,hi luke!,,,,,
+"Can we use Notepad as a text editor, or do we need a compiler/interpreter also?",Yes you can use notepad or anything that you allows you to write text in.,,,,,
+"audio is really bad...... cannot imagine it's my connection or computer, hope others have no problems with it. I'll watch the video later today or tomorrow when it's available","sorry to hear that paul - it seems to be working fine on my end so i guess it must just be the connection? good idea, we’ll share the recordings and you’ll be able to watch it back!",,,,,
+where will I be able to get the recording from?,https://boolean-uk.github.io/coding-weekend/index.html,,,,,
+Why is https://boolean.co.uk/course/software-developer-fulltime so out of date?,The course page has all the correct main info about the course…but stay posted for a refresh in the next week or two 👀,,,,,
+"Hey Phil do I need to be in the UK to join your progam?
+I'm currently in the UK now",You can join our course if you’re in the UK or Europe. there are some additional requirements for the money back guarantee and future earnings agreement. chat to our Admissions Team to find out more!,,,,,
+what exactly is this i am kinda confused,What Ed is typing now is html.  Inside the <script> html tag is where he will link a javascript file to.,,,,,
+Can you show us the autocomplete function again?,You should be able to autocomplete things in your code editor with the 'Tab' key,,,,,
+Can we get the HMTL code? to start javascript?,live answered,,,,,
+Can you use JS for mobile phone apps?,"Yes you can use JS for mobile apps, there are specific JS libraries for mobile development such as 'React Native'",,,,,
+can’t copy html,"you’ll need to use your mouse to click and select the text of Edward’s message, then right click to copy. that should hopefully work!",,,,,
+it doesn’t work for me on a mac for some reason,"if you hover over the message, you’ll see three dots appear on the right - click those and you should have an option to copy!",,,,,
+where could we watch the recording of this,https://boolean-uk.github.io/coding-weekend/index.html,,,,,
+Where is the powerpoint resource for this session?,all the resources are at the link that Edward shared in the chat,,,,,
+Are semicolons used to seperate the statements in JS? Codesandbox has put them in mine as I follow along.,Yes semicolons are used to seperate statements by the compiler in JS,,,,,
+What are the main differences between JavaScript and Python?,JS was created specifically to develop desktop/web applications and runs in the browser. Python is a more general purpose language focused on readability.,,,,,
+When does the course after this one (16feb) start?,Our next cohort starts on 7th February! The next date hasn’t been released but will be around March/April,,,,,
+i cann't hear edward,"hi mia - please try changing your volume settings, and try exiting and rejoining the meeting!",,,,,
+Did Coding used to be called Programming?,live answered,,,,,
+How many pupils of yours succeffully get jobs after completing your course?,"we’ll be going into detail on the career services, placement rate, etc on thursday at the open day!",,,,,
+Can you enable the chat? Currently copy/paste is disabled because chat is diabled,"Try and copy from here:
+
+<!DOCTYPE html>
+<html lang=""en"" dir=""ltr"">
+  <head>
+    <meta charset=""utf-8"">
+    <title></title>
+  </head>
+  <body>
+    <script src=""index.js""></script>
+  </body>
+</html>",,,,,
+"Is JS on a OS platform (Mac), any different to Windows JS?",It will be the same,,,,,
+"I've copied all the code into atom, saved both items in the same folder and made sure that the right one is named index.js and then written in it: console.log(""Hi, coding Weekend!"") But, when I open it (in chrome), it is blank. Do you know why this might be?",you need to look in the inspetor to see the console. right click in the browser and select 'inspect',,,,,
+I can't connect my js code to html any idea on what could be wrong?,"make sure you you have pointed your <script> to the js file. e.g
+<script type=""text/javascript"" src=""index.js""></script>",,,,,
+What is the difference between const and let? Why would you use one instead of the other?,live answered,,,,,
+Are lets always Numbers specifically and Const is text based?,live answered,,,,,
+Is it good JS practice to explicity declare a type upon variable declaration?,"Thats more common in typescript, which is a more strictly typed version of JS",,,,,
+can the value in cons and let be used for math functions?,live answered,,,,,
+Who do coders work for?,live answered,,,,,
+Do you have to do computer science for A-Levels to study it in university ?,live answered,,,,,
+Is there any way to run js directly in atom?,You will need a script package installed and then you can run js from the command line,,,,,
+how/where did you bring up the console?,right click in the web browser and click on 'inspect' this will bring up your developer tools,,,,,
+I work 9-5pm. is the course available over the weekend or evenings?,currently the full-time course is just 9.30-6pm monday to friday but follow us on socials as we could explore new options in the future,,,,,
+does indentation in html code affect if it runs properly?,indentation is mainly done to make the code more readable to you and others and make it easier to debug and maintain.,,,,,
+I joined a bit late so i cannot find the link Edward sent previously with the resources for this session,https://boolean-uk.github.io/coding-weekend/index.html,,,,,
+Could you provide an example as to const/lets and the updated/non updated nature?,"try this out in your console! 
+const name1 = “abc”
+const name1 = “xyz”
+let name2 = “abc”
+let name2 = “xyz”
+
+what happens when you console.log(name1) and console.log(name2)?",,,,,
+"can you please go more in detail about the difference between programming and software engineering I would like to know more espicially about software engineering.
+Thanks",As Ed mentioned it's quite a subhjective topic and there are lots of articles debating it.,,,,,
+why use let instead of var?,let is limited to the scope of a block statement. Var is a global variable.,,,,,
+What's the keyboard shortcut to comment multiple lines in js?,this depends on which editor you’re using and whether you’re on windows or mac > if you google this you should be able to find it!,,,,,
+I am writing my code in VS Code and i have connected my .js file and .html together but my console isnt updating,check that you’ve saved both of your files before refreshing the broswer,,,,,
+What kinds of jobs can i apply for from your course,"typically people will apply for roles like: front-end developer, back-end developer, full-stack developer, software developer",,,,,
+"If you write something in a console and it results in an error, is there a shortcut to call the line again without retyping it?",you can press the up key to get the previous line you typed and then you can edit that,,,,,
+"if const titles is const and not let, can we add more titles to it with the titles.push?",Yes as in the case const is an array and you can push() to an array,,,,,
+What is the prpose of the JS file if you are copying everything into the console?,Ed is pasting it in the console to show you the output. In an application that you want to render on a webpage and 'do things' you would need you JS in a file or script tag for it to then work in the browser and allow things to be seen on the page,,,,,
+It's easy for me to understand the use cases for HTML & CSS but what is a common use case for Javascript?,live answered,,,,,
+How come we could change the array if it is a const?,live answered,,,,,
+What is the name of the object? or where is it defined?,live answered,,,,,
+didn't you just declare a const twice?,"we can create as many “const” as we like, as long as we give them different names",,,,,
+where is the object name defined there?,live answered,,,,,
+How can you add an item to an object?,live answered,,,,,
+why should we push a variation in console if it doesn’t modify the text file? is it done only in specific occasions? thank you,"we use the console to play around and test our code. this is because it gives us instant feedback. however, when we leave the console all our code disappears. so if we want to save that code, so that we can add it to our website for example, it needs to be in a text file that we can run in our HTML",,,,,
+"What would you say is the main difference between self-taught software developers, being taught from a coding bootcamp or computer science at university, and how will each affect you in industry i.e. would everyone have an equal chance to work at say Google for example?",live answered,,,,,
+do you have to put the equal sign,"if you are declaring a variable e.g. a 'const' and you want to assign it a value, you will need =",,,,,
+"if you just write 
+title = “Book title”
+Is it a const or a let variable?",it will usually mean that 'title' has been devlared further up in the code/file. e.g. const title = someValue will be somewhere,,,,,
+Can we nest objects?,Yes you can and you can access them with dot notation or bracket notation as Ed mentioned.,,,,,
+"Objects in javascript look like dictionaries in Python, are they the same thing?",there are similarities,,,,,
+when does the class finish?,at 4pm GMT (just under 1 hour),,,,,
+Do mathematical expressions use BODMAS in Java?,In Javascript order of precedence is a bit different.  There is plenty of reading on it out there.,,,,,
+Is there a link to the slides? (https://boolean-uk.github.io/coding-weekend/index.html) This one only gives me a blue screen,click on the pink hyperlink and you’ll be able to view all the resources!,,,,,
+Why is there an = at const book but a : at author?,"const book we’ve declared a variable “book” which stores data in a hash. within that hash, we’ve created a key called “author” which is another hash.",,,,,
+On the link containing the slides/videos for each day in the coding weekend. JavasScript isn’t clickable so I can’t access the slides. Will we be able to access the slides at the end of today’s session?,"yep, we’ll add slides and update the page after the session today :)",,,,,
+what is the point of using ¬ at the end of everything,"this is just the editor showing us that there is a line break, i think you can toggle whether you view this or not",,,,,
+When will we start to make the snake phone game?,in just a moment!,,,,,
+can u repost the recorded link please?,it’s in the chat and also in your emails :),,,,,
+"can you explain the incriments part, what does ++ mean?",live answered,,,,,
+What does i++ do?,live answered,,,,,
+What would it be if want to count backwards?,"If we are talking about a for loop, you use a decrementor so i-- instead of i++",,,,,
+can you go up in decimals for example go up by 0.5 each time,you  could use i+=0.5,,,,,
+"I see the result of console.log just fine, so I know the browser is referencing the index.js file. But whenever I type the name of a variable in the console it tells me the variable is undefined. However, if I use console.log variable name, it displays the variable successfully.",live answered,,,,,
+Can you pass an object into a function?,live answered,,,,,
+"""Uncaught SyntaxError: Unexpected token ':'""",you have :  somewhere it should not be,,,,,
+"what is wrong with this code it is giving errors
+
+function callSnek(title) {
+	retun ""Come, "" + title
+}",you have a typo!,,,,,
+How do we console log the function sayHi with our names?,wrap what you want to console log inside the the console.log ( wrapItHere ),,,,,
+How do we console log the function sayHi with our names?,you need to call the function as sayHi(“my name”),,,,,
+where we do get the gihub link?,https://github.com/boolean-uk/demo-snake,,,,,
+Are these .fillRect; .getContext; functions implemented in JS by default? Or are they pre-written by you guys?,these are javascript methods,,,,,
+In javascript using ; after commands is optional?,"JS has 'semicolon insertion', which means if you do ommit them they will be added when the code is parsed.... but.... its best practice to add them",,,,,
+"My snake page seems to be missing the rectangle canvas, have I not linked my css file?",double check you’ve copy-pasted correctly and then check for typos!,,,,,
+what does triple = mean?,It is the strict equality operator,,,,,
+after function (event) shouldnt there be another bracet to close the initial one,yes its on line 26 before the closing ),,,,,
+what is a good way to master it quickly?,practice and experiment,,,,,
+Is there any sources you could introduce for further practice?,our fundamentals camp is a great way to try some more HTML & CSS https://boolean.co.uk/fundamentals,,,,,
+"I copyed the code its does not show any dot on my page, Demo",check for typos!,,,,,
+Difference between == and ===?,'== does not check data type and is a less strict operator (comparitor) than ===,,,,,
+in the end all is so fast,"please do watch the recording back when we share it, so you have a chance to watch over it",,,,,
+Do you need to call the function?,live answered,,,,,
+did you call (execute) the ,live answered,,,,,
