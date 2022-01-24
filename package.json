@@ -1,0 +1,25 @@
+{
+  "name": "coding-weekend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boolean-uk/coding-weekend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boolean-uk/coding-weekend/issues"
+  },
+  "homepage": "https://github.com/boolean-uk/coding-weekend#readme",
+  "dependencies": {
+    "cypress": "^9.3.1"
+  },
+  "devDependencies": {
+    "serve": "^13.0.2"
+  }
+}
