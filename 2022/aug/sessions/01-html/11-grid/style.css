@@ -1,6 +1,36 @@
-/* * {
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: sans-serif;
-} */
+}
+
+img {
+  width: 300px;
+}
+
+.container {
+  display: grid;
+  grid-template: "duck main smiley" auto / 1fr 2fr 1fr;
+  gap: 10px;
+  /* justify-items: center; */
+  /* place-items: center; */
+}
+
+.left, .main, .right {
+  padding: 10px;
+}
+.left {
+  background-color: blue;
+  grid-area: duck;
+}
+
+.main {
+  background-color: yellow;
+  grid-area: main;
+}
+
+.right {
+  background-color: red;
+  grid-area: smiley;
+}

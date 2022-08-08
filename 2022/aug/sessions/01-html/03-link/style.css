@@ -1,0 +1,16 @@
+p {
+  width: 600px;
+  margin: auto;
+  height: 800px;
+  background-color: teal;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 20px;
+  color: white;
+  font-size: 30px;
+}
+
+/* comment me out - see how I affect the scrolling */
+html {
+  scroll-behavior: smooth;
+}
