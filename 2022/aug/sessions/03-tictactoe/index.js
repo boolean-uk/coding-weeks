@@ -44,6 +44,7 @@ function drawBoard() {
                 if (checkForWinner()) {
                     drawMessage(`${state.symbols[0]} won!`)
                     state.gameFinished = true
+                    return
                 }
 
                 if (checkForDraw()) {
