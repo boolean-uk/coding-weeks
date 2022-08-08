@@ -15,12 +15,8 @@ div {
     background-color: blue;
 
     /* adding an image location */
-    background-image: url("img/duck.png");
 
     /* show different size values */
-    background-size: contain;
 
     /* show repeat and no repeat, different starting position */
-    background-repeat: repeat;
-    background-position: 20% 20%;
 }

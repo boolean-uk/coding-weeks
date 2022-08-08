@@ -1,25 +1,25 @@
 .red-name {
-    color: red;
+
 }
 
 .red-rgb {
-    color: rgb(255, 0, 0);
+
 }
 
 .red-hex {
-    color: #ff0000;
+
 }
 
 .red-rgba {
-    color: rgba(255, 0, 0, 0.5);
+
 }
 
 .red-hsl {
-    color: hsl(0deg 100% 50%);
+
 }
 
 .red-hwb {
-    color: hwb(0deg 0% 0%);
+
 }
 
 /* demonstrate color picker */

@@ -11,48 +11,36 @@
     height: 300px;
     background-color: red;
 
+    /* set a border! show in boxmodel */
     /* border-width: 3px;
     border-style: solid;
     border-color: black; */
 
-    /* shorthand */
-    /* border: 3px solid black; */
+    /* show shorthand */
 
     /* one edge at a time is also possible */
-    /* border-top: 1px solid black;
-    border-right: 3px solid black;
-    border-bottom: 5px solid black;
-    border-left: 3px solid black; */
 
     /* we can use more values */
     /* top bottom */
-    /* border-style: solid dashed; */
     /* top left/right bottom */
-    /* border-width: 2px 5px 10px; */
     /* top right bottom left */
-    /* border-color: blue orange purple green; */
 
-    /* border-radius: 10px; */
+    /* round the corners */
 
-    /* add some margin */
-    /* margin: 50px; */
+    /* add some margin around the sides */
 
     /* center the content by adding margin automatically left, right */
-    /* margin: auto; */
 
     /* add some space just the bottom */
-    /* margin-bottom: 30px; */
 }
 
 .circle {
     width: 300px;
     height: 300px;
     background-color: blue;
-    /* circles commonly are just elements that have the following property*/
-    border-radius: 50%;
+    /* circles commonly are just elements that have the following property */
 
-    /* add some space below */
-    /* margin-top: 20px; */
+    /* add some space between elements */
 }
 
 .square {
@@ -61,8 +49,6 @@
     background-color: green;
 
     /* padding can increase the element width */
-    padding: 50px;
 
     /* but if we specify how the browser should calculate width and height we can reason more effectively about it */
-    box-sizing: border-box;
 }

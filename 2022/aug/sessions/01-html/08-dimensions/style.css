@@ -1,15 +1,4 @@
 div {
     background-color: red;
 
-    /* width: 50%; */
-    /* switch 80% with 800px */
-    /* width: 800px; */
-    /* switch width with max-width */
-    max-width: 900px;
-
-    /* height: 80px; */
-    /* switch height with min-height */
-    min-height: 80px;
-    /* sostituiamo i px con vh */
-    /* min-height: 100vh; */
 }

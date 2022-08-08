@@ -1,24 +1,19 @@
-/* demonstrate getting a font */
+/* demonstrate getting a font from google fonts*/
+/* increase lineheight */
 p {
-    font-family: 'Nunito', Arial, sans-serif;
-    font-size: 18px;
-    line-height: 1.5;
-    font-weight: 800;
+
 }
 
+/* underline, uppercase, center vertical and horizonal */
 h1 {
-    text-decoration: underline;
-    text-transform: uppercase;
-    text-align: center;
-    line-height: 4;
+
 }
 
+/* style the buttons simply using background-color */
 button {
-    background-color: #A2CC85;
-    /* background-color: rgb(162, 204, 133); */
-    /* background-color: rgba(162, 204, 133, 0.75);  */
+
 }
 
 button:hover {
-    background-color: #568b31;
+  
 }

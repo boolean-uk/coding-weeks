@@ -9,28 +9,21 @@ img {
   width: 300px;
 }
 
-.container {
-  display: grid;
-  grid-template: "duck main smiley" auto / 1fr 2fr 1fr;
-  gap: 10px;
-  /* justify-items: center; */
-  /* place-items: center; */
-}
+/* create grid with 1:2:1 ratio, gap 10px */
 
-.left, .main, .right {
-  padding: 10px;
-}
+/* set each element to the area of the grid */
 .left {
   background-color: blue;
-  grid-area: duck;
 }
 
 .main {
   background-color: yellow;
-  grid-area: main;
 }
 
 .right {
   background-color: red;
-  grid-area: smiley;
+}
+
+/* push content to the middle slightly with padding */
+.left, .main, .right {
 }
