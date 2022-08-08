@@ -12,8 +12,7 @@ const state = {
         [2,5,8], // column
         [0,4,8], // diagonal
         [2,4,6]  // diagonal
-    ],
-    gameFinished: false
+    ]
 }
 
 function drawBoard() {
@@ -30,54 +29,17 @@ function drawBoard() {
             cell.append(cellSymbol)
         } else {
             cell.addEventListener('click', function () {
-                if (state.gameFinished) {
-                    return
-                }
-
                 state.symbols.reverse()
                 const currentPlayerSymbol = state.symbols[0]
     
                 state.cells[i] = currentPlayerSymbol
     
                 drawBoard()
-
-                if (checkForWinner()) {
-                    drawMessage(`${state.symbols[0]} won!`)
-                    state.gameFinished = true
-                }
-
-                if (checkForDraw()) {
-                    drawMessage('Draw!')
-                    state.gameFinished = true
-                }
             })
         }
 
         state.gameElement.append(cell)
     }
-}
-
-function checkForWinner() {
-    return state.winningCombinations.some(combo => {
-        const cells = combo.map(index => state.cells[index])
-
-        return !(cells.includes(null)) && new Set(cells).size === 1
-    })
-}
-
-function checkForDraw() {
-    return state.cells.every(cell => cell !== null)
-}
-
-function drawMessage(message) {
-    const banner = document.createElement('div')
-    banner.classList.add('banner')
-
-    const h1 = document.createElement('h1')
-    h1.innerHTML = message
-    banner.append(h1)
-
-    state.gameElement.append(banner)
 }
 
 drawBoard()
