@@ -1,11 +1,12 @@
-/* * {
+/* enforcing we start from a common set of page styles */
+* {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
-} */
+  /* box-sizing: border-box; */
+}
 
 
-.rettangolo {
+.rectangle {
     width: 500px;
     height: 300px;
     background-color: red;
@@ -14,51 +15,54 @@
     border-style: solid;
     border-color: black; */
 
-    /* facciamo vedere lo shorthand */
+    /* shorthand */
     /* border: 3px solid black; */
 
-    /* facciamo vedere che si può impostare anche solo un lato alla volta (?)*/
+    /* one edge at a time is also possible */
     /* border-top: 1px solid black;
     border-right: 3px solid black;
     border-bottom: 5px solid black;
     border-left: 3px solid black; */
 
-    /* facciamo vedere come gestire le proprietà usando più valori */
-    border-style: solid dashed;
-    border-width: 2px 5px 10px;
-    border-color: blue orange purple green;
+    /* we can use more values */
+    /* top bottom */
+    /* border-style: solid dashed; */
+    /* top left/right bottom */
+    /* border-width: 2px 5px 10px; */
+    /* top right bottom left */
+    /* border-color: blue orange purple green; */
 
-    border-radius: 10px;
+    /* border-radius: 10px; */
 
-    /* facciamo vedere il margin */
+    /* add some margin */
     /* margin: 50px; */
 
-    /* facciamo vedere la centratura orizzontale */
-    /* margin: 0 auto; */
+    /* center the content by adding margin automatically left, right */
+    /* margin: auto; */
 
-    /* facciamo vedere il collasso dei margini verticali */
-    margin-bottom: 30px;
+    /* add some space just the bottom */
+    /* margin-bottom: 30px; */
 }
 
-.cerchio {
+.circle {
     width: 300px;
     height: 300px;
     background-color: blue;
-    /* facciamo vedere che con il border radius si possono fare i cerchi */
+    /* circles commonly are just elements that have the following property*/
     border-radius: 50%;
 
-    /* facciamo vedere il collasso dei margini verticali */
-    margin-top: 20px;
+    /* add some space below */
+    /* margin-top: 20px; */
 }
 
-.quadrato {
+.square {
     width: 300px;
     height: 300px;
     background-color: green;
 
-    /* facciamo vedere che il padding si somma alle dimensioni */
+    /* padding can increase the element width */
     padding: 50px;
 
-    /* facciamo vedere che cambiando bo-sizing il padding non aumenta le dimensioni del blocco */
+    /* but if we specify how the browser should calculate width and height we can reason more effectively about it */
     box-sizing: border-box;
 }

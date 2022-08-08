@@ -1,6 +1,8 @@
+/* demonstrate getting a font */
 p {
     font-family: 'Nunito', Arial, sans-serif;
-    font-size: 12px;
+    font-size: 18px;
+    line-height: 1.5;
     font-weight: 800;
 }
 
@@ -8,7 +10,7 @@ h1 {
     text-decoration: underline;
     text-transform: uppercase;
     text-align: center;
-    line-height: 2;
+    line-height: 4;
 }
 
 button {
