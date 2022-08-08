@@ -1,3 +1,6 @@
+h3 {
+  margin-top: 20px;
+}
 .session-ul {
   list-style-type: none;
 }
@@ -20,7 +23,8 @@ section ul {
 }
 
 .session-nav-link {
-  margin-right: 10px;
+  /* margin-right: 10px; */
+  text-align: center;
 }
 
 .session-recording {
@@ -29,4 +33,9 @@ section ul {
 
 .align {
   align-items: center;
+}
+
+.theme-art {
+  width: 100%;
+  margin: 20px;
 }
