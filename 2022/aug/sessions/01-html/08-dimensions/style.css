@@ -1,0 +1,17 @@
+div {
+    /* facciamo vedere che se il div è vuoto non si vede nulla */
+    background-color: red;
+
+    /* width: 80%; */
+    /* sostituiamo 80% con 800px */
+    /* width: 800px; */
+    /* sostituiamo width con max-width */
+    max-width: 800px;
+
+
+    /* height: 80px; */
+    /* sostituiamo height con min-height */
+    /* min-height: 80px; */
+    /* sostituiamo i px con vh */
+    min-height: 100vh;
+}

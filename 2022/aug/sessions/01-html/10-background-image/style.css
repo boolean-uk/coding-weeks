@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+div {
+    margin: 25px;
+}
+
+.riquadro {
+    width: 500px;
+    height: 300px;
+    background-color: blue;
+
+    /* mostriamo come inserire un'immagine di sfondo */
+    background-image: url("img/duck.png");
+
+    /* mostriamo i diversi sizing */
+    background-size: contain;
+
+    /* mostriamo background repeat e position */
+    background-repeat: no-repeat;
+    background-position: center;
+}
