@@ -1,39 +1,30 @@
 const state = {
     gameElement: document.querySelector('.game'),
-    symbols: ['o', 'x'],
     // cells: [null, null, null, null, null, null, null, null, null]
     cells: Array(9).fill(null),
-    winningCombinations: [
-        [0,1,2], // row
-        [3,4,5], // row
-        [6,7,8], // row
-        [0,3,6], // column
-        [1,4,7], // column
-        [2,5,8], // column
-        [0,4,8], // diagonal
-        [2,4,6]  // diagonal
-    ]
+    symbols: ['o', 'x']
 }
 
 function drawBoard() {
     state.gameElement.innerHTML = ''
+    console.log("drawBoard has been run!")
 
-    for (let i = 0; i < state.cells.length; i++) {
+    for (let i = 0; i < 9; i++) {
         const cell = document.createElement('div')
         cell.classList.add('cell')
 
-        if (state.cells[i]) {
-            const cellSymbol = document.createElement('p')
+        if (state.cells[i]) { // does the cell have an x or an o? if so, this code runs
+            const cellSymbol = document.createElement('p') // <p class="symbol"></p>
             cellSymbol.innerText = state.cells[i]
             cellSymbol.classList.add('symbol')
+
             cell.append(cellSymbol)
-        } else {
+        } else { // otherwise it must be empty, so run this next section
             cell.addEventListener('click', function () {
                 state.symbols.reverse()
-                const currentPlayerSymbol = state.symbols[0]
+                state.cells[i] = state.symbols[0]
     
-                state.cells[i] = currentPlayerSymbol
-    
+                console.log(state.cells)
                 drawBoard()
             })
         }
