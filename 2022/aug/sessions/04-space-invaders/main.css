@@ -77,3 +77,25 @@ body {
   text-align: center;
   line-height: 50px;
 }
+
+.stages {
+  margin-top: 200px;
+  list-style-type: none;
+}
+
+.stage > span {
+  line-height: 1.5;
+}
+
+.stage > * {
+  margin: 10px;
+  color: white;
+}
+
+.stage a:hover {
+  text-decoration: none;
+}
+
+.stage a:visited {
+  color: grey;
+}
