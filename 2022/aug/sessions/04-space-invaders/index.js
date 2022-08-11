@@ -108,9 +108,9 @@ const controlShip = (event) => {
 
 const moveShip = (direction) => {
   state.cells[state.shipPosition].classList.remove('spaceship')
-  if (direction === 'left') {
+  if (direction === 'left' && state.shipPosition % 15 !== 0) {
     state.shipPosition--
-  } else if (direction === 'right') {
+  } else if (direction === 'right' && state.shipPosition % 15 !== 14) {
     state.shipPosition++
   }
   state.cells[state.shipPosition].classList.add('spaceship')
