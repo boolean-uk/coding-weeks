@@ -1,0 +1,177 @@
+/* Custom properties */
+:root {
+    --color-blue: #3535EC;
+    --color-white: #ffffff;
+    --color-blue-dark: #120945;
+    --color-yellow: #F2AD41;
+    --color-pink: #DE7EB6;
+    --font: 'Livvic', sans-serif;
+}
+
+/* CSS Reset */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Generic rules */
+html {
+    background-color: var(--color-blue);
+    line-height: 1;
+    color: var(--color-white);
+    font-family: var(--font);
+}
+
+.container {
+  display: grid;
+  grid-template-areas: ". main stages";
+  grid-template-columns: 1fr 350px 1fr;
+  margin: 32px auto 0 auto;
+}
+
+section {
+  grid-area: main;
+}
+
+img {
+    max-width: 100%;
+}
+
+h1 {
+    margin-bottom: 18px;
+    font-size: 30px;
+    color: var(--color-pink);
+}
+
+a {
+  color: white;
+}
+
+/* Tree */
+.xmas-stage {
+    position: relative;
+    height: 600px;
+}
+
+.ball {
+  width: 65px;
+  position: absolute;
+  transition: scale 0.4s ease-in-out;
+}
+
+.ball:hover {
+    transform: scale(1.2);
+}
+
+.gift {
+  position: absolute;
+}
+
+.gift_1 {
+    bottom: 139px;
+    width: 120px;
+    right: 36px;
+}
+
+.gift_2 {
+    bottom: 139px;
+    left: 36px;
+    width: 120px;
+}
+
+.gift_3 {
+    bottom: 200px;
+    left: 68px;
+    width: 60px;
+}
+
+.ball_1 {
+    top: 240px;
+    left: 70px;
+}
+
+.ball_2 {
+    top: 165px;
+    left: 110px;
+}
+
+.ball_3 {
+    top: 170px;
+    right: 102px;
+}
+
+.ball_4 {
+    top: 240px;
+    right: 75px;
+}
+
+.ball_5 {
+    top: 280px;
+    left: 145px;
+}
+
+/* Panel */
+
+.panel {
+  display: grid;
+  grid-auto-rows: 1fr 1fr;
+  place-items: center;
+
+  background-color: var(--color-blue-dark);
+  margin: 40px 0;
+  width: 100%;
+  padding: 16px 0;
+
+  text-align: center;
+  border-radius: 8px;
+}
+
+.counter {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 5px;
+}
+
+.counter-block {
+    font-weight: 600;
+}
+
+.counter-block:last-child {
+    color: var(--color-yellow);
+}
+
+.counter-block-number {
+    font-size: 48px;
+}
+
+.counter-block-label {
+    font-size: 20px;
+}
+
+.stages-area {
+
+  grid-area: stages;
+}
+
+.stages-list {
+  margin-top: 635px;
+  list-style-type: none;
+}
+
+.stage > span {
+  line-height: 1.5;
+}
+
+.stage > * {
+  margin: 10px;
+  color: white;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:visited {
+  color: grey;
+}

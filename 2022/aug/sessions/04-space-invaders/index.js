@@ -51,7 +51,7 @@ const play = () => {
 
     checkGameState(interval)
     drawAliens()
-  }, 400);
+  }, 200);
 
   window.addEventListener('keydown', controlShip)
 }
@@ -73,7 +73,6 @@ const drawGrid = () => {
 
   state.cells = Array(state.numCells).fill(null).map(i => {
     const cell = document.createElement('div')
-    cell.classList.add('cell')
     grid.append(cell)
     return cell
   })
